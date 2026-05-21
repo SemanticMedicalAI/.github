@@ -90,32 +90,23 @@ The organization currently utilizes technologies including:
 ## NLP & AI
 
 - spaCy
-- Transformers
-- BERTopic
-- Sentence Transformers
 - Ollama
-- OpenAI APIs
 
 ## Knowledge Representation
 
 - RDF
-- SKOS
 - OWL
-- Neo4j
 - Graph-Based Semantic Structures
 
 ## Backend & Processing
 
 - Python
-- FastAPI
 - Pandas
-- Pydantic
 
 ## Frontend & Integration
 
 - Open WebUI
 - API-based LLM integration
-- Modular research pipelines
 
 ---
 
